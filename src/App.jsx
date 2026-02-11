@@ -212,7 +212,7 @@ function App() {
       <div id="socials" className='socials'>
             <div className="invite"><b>You can reach out to me on:</b></div>
             <div className='socials-icons'>
-              <a href="https://www.linkedin.com/in/minhajur-rahman-5a4860222/" target="_blank" rel="noopener noreferrer">
+              <a href="www.linkedin.com/in/minhajr640/" target="_blank" rel="noopener noreferrer">
               <img src={linkedinIcon}/>
               </a>
               <a href="https://github.com/Minhajr640" target="_blank" rel="noopener noreferrer">
