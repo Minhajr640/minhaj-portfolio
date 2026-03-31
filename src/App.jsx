@@ -49,7 +49,7 @@ function App() {
         </div>
         <div className="Name-Header">
               <h1>Minhajur Rahman</h1>
-              <h3>Jr. Full-Stack Java Developer</h3>
+              <h3>Full-Stack Developer</h3>
               <p><b>HI!</b> I have completed 4 years of education centered in Finance and another 4 centered in Programming. I
               have worked in financial services for 3+ years and now excited to transition into the FinTech industry as a developer.</p>
         </div>
